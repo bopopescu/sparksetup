@@ -1,0 +1,11 @@
+/vol/spark-1.3.1/network/shuffle/src/test/java/org/apache/spark/network/shuffle/ExternalShuffleCleanupSuite.java
+/vol/spark-1.3.1/network/shuffle/src/test/java/org/apache/spark/network/shuffle/ExternalShuffleBlockHandlerSuite.java
+/vol/spark-1.3.1/network/shuffle/src/test/java/org/apache/spark/network/shuffle/BlockTransferMessagesSuite.java
+/vol/spark-1.3.1/network/shuffle/src/test/java/org/apache/spark/network/shuffle/OneForOneBlockFetcherSuite.java
+/vol/spark-1.3.1/network/shuffle/src/test/java/org/apache/spark/network/shuffle/ExternalShuffleBlockManagerSuite.java
+/vol/spark-1.3.1/network/shuffle/src/test/java/org/apache/spark/network/sasl/SparkSaslSuite.java
+/vol/spark-1.3.1/network/shuffle/src/test/java/org/apache/spark/network/shuffle/TestShuffleDataContext.java
+/vol/spark-1.3.1/network/shuffle/src/test/java/org/apache/spark/network/shuffle/ExternalShuffleIntegrationSuite.java
+/vol/spark-1.3.1/network/shuffle/src/test/java/org/apache/spark/network/shuffle/RetryingBlockFetcherSuite.java
+/vol/spark-1.3.1/network/shuffle/src/test/java/org/apache/spark/network/sasl/SaslIntegrationSuite.java
+/vol/spark-1.3.1/network/shuffle/src/test/java/org/apache/spark/network/shuffle/ExternalShuffleSecuritySuite.java

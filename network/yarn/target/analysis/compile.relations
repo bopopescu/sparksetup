@@ -1,0 +1,21 @@
+products:
+   network/yarn/src/main/java/org/apache/spark/network/yarn/YarnShuffleService.java -> network/yarn/target/scala-2.11/classes/org/apache/spark/network/yarn/YarnShuffleService.class
+   network/yarn/src/main/java/org/apache/spark/network/yarn/util/HadoopConfigProvider.java -> network/yarn/target/scala-2.11/classes/org/apache/spark/network/yarn/util/HadoopConfigProvider.class
+binary dependencies:
+   network/yarn/src/main/java/org/apache/spark/network/yarn/YarnShuffleService.java -> /home/ubuntu/.m2/repository/org/apache/hadoop/hadoop-common/2.4.0/hadoop-common-2.4.0.jar
+   network/yarn/src/main/java/org/apache/spark/network/yarn/YarnShuffleService.java -> /home/ubuntu/.m2/repository/org/apache/hadoop/hadoop-yarn-api/2.4.0/hadoop-yarn-api-2.4.0.jar
+   network/yarn/src/main/java/org/apache/spark/network/yarn/YarnShuffleService.java -> /home/ubuntu/.m2/repository/org/slf4j/slf4j-api/1.7.10/slf4j-api-1.7.10.jar
+   network/yarn/src/main/java/org/apache/spark/network/yarn/YarnShuffleService.java -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+   network/yarn/src/main/java/org/apache/spark/network/yarn/YarnShuffleService.java -> network/common/target/spark-network-common_2.11-1.3.1.jar
+   network/yarn/src/main/java/org/apache/spark/network/yarn/YarnShuffleService.java -> network/shuffle/target/spark-network-shuffle_2.11-1.3.1.jar
+   network/yarn/src/main/java/org/apache/spark/network/yarn/util/HadoopConfigProvider.java -> /home/ubuntu/.m2/repository/org/apache/hadoop/hadoop-common/2.4.0/hadoop-common-2.4.0.jar
+   network/yarn/src/main/java/org/apache/spark/network/yarn/util/HadoopConfigProvider.java -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+   network/yarn/src/main/java/org/apache/spark/network/yarn/util/HadoopConfigProvider.java -> network/common/target/spark-network-common_2.11-1.3.1.jar
+source dependencies:
+   network/yarn/src/main/java/org/apache/spark/network/yarn/YarnShuffleService.java -> network/yarn/src/main/java/org/apache/spark/network/yarn/YarnShuffleService.java
+   network/yarn/src/main/java/org/apache/spark/network/yarn/YarnShuffleService.java -> network/yarn/src/main/java/org/apache/spark/network/yarn/util/HadoopConfigProvider.java
+   network/yarn/src/main/java/org/apache/spark/network/yarn/util/HadoopConfigProvider.java -> network/yarn/src/main/java/org/apache/spark/network/yarn/util/HadoopConfigProvider.java
+external dependencies:
+class names:
+   network/yarn/src/main/java/org/apache/spark/network/yarn/YarnShuffleService.java -> org.apache.spark.network.yarn.YarnShuffleService
+   network/yarn/src/main/java/org/apache/spark/network/yarn/util/HadoopConfigProvider.java -> org.apache.spark.network.yarn.util.HadoopConfigProvider

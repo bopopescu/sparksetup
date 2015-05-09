@@ -1,0 +1,45 @@
+products:
+   external/mqtt/src/test/java/org/apache/spark/streaming/LocalJavaStreamingContext.java -> external/mqtt/target/scala-2.11/test-classes/org/apache/spark/streaming/LocalJavaStreamingContext.class
+   external/mqtt/src/test/java/org/apache/spark/streaming/mqtt/JavaMQTTStreamSuite.java -> external/mqtt/target/scala-2.11/test-classes/org/apache/spark/streaming/mqtt/JavaMQTTStreamSuite.class
+   external/mqtt/src/test/scala/org/apache/spark/streaming/mqtt/MQTTStreamSuite.scala -> external/mqtt/target/scala-2.11/test-classes/org/apache/spark/streaming/mqtt/MQTTStreamSuite$$anon$1.class
+   external/mqtt/src/test/scala/org/apache/spark/streaming/mqtt/MQTTStreamSuite.scala -> external/mqtt/target/scala-2.11/test-classes/org/apache/spark/streaming/mqtt/MQTTStreamSuite$$anonfun$1.class
+   external/mqtt/src/test/scala/org/apache/spark/streaming/mqtt/MQTTStreamSuite.scala -> external/mqtt/target/scala-2.11/test-classes/org/apache/spark/streaming/mqtt/MQTTStreamSuite$$anonfun$2.class
+   external/mqtt/src/test/scala/org/apache/spark/streaming/mqtt/MQTTStreamSuite.scala -> external/mqtt/target/scala-2.11/test-classes/org/apache/spark/streaming/mqtt/MQTTStreamSuite$$anonfun$3$$anonfun$apply$mcV$sp$1.class
+   external/mqtt/src/test/scala/org/apache/spark/streaming/mqtt/MQTTStreamSuite.scala -> external/mqtt/target/scala-2.11/test-classes/org/apache/spark/streaming/mqtt/MQTTStreamSuite$$anonfun$3$$anonfun$apply$mcV$sp$2.class
+   external/mqtt/src/test/scala/org/apache/spark/streaming/mqtt/MQTTStreamSuite.scala -> external/mqtt/target/scala-2.11/test-classes/org/apache/spark/streaming/mqtt/MQTTStreamSuite$$anonfun$3.class
+   external/mqtt/src/test/scala/org/apache/spark/streaming/mqtt/MQTTStreamSuite.scala -> external/mqtt/target/scala-2.11/test-classes/org/apache/spark/streaming/mqtt/MQTTStreamSuite$$anonfun$findFreePort$1.class
+   external/mqtt/src/test/scala/org/apache/spark/streaming/mqtt/MQTTStreamSuite.scala -> external/mqtt/target/scala-2.11/test-classes/org/apache/spark/streaming/mqtt/MQTTStreamSuite$$anonfun$publishData$1.class
+   external/mqtt/src/test/scala/org/apache/spark/streaming/mqtt/MQTTStreamSuite.scala -> external/mqtt/target/scala-2.11/test-classes/org/apache/spark/streaming/mqtt/MQTTStreamSuite.class
+binary dependencies:
+   external/mqtt/src/test/java/org/apache/spark/streaming/LocalJavaStreamingContext.java -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+   external/mqtt/src/test/java/org/apache/spark/streaming/LocalJavaStreamingContext.java -> core/target/spark-core_2.11-1.3.1.jar
+   external/mqtt/src/test/java/org/apache/spark/streaming/LocalJavaStreamingContext.java -> streaming/target/spark-streaming_2.11-1.3.1.jar
+   external/mqtt/src/test/java/org/apache/spark/streaming/mqtt/JavaMQTTStreamSuite.java -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+   external/mqtt/src/test/java/org/apache/spark/streaming/mqtt/JavaMQTTStreamSuite.java -> core/target/spark-core_2.11-1.3.1.jar
+   external/mqtt/src/test/scala/org/apache/spark/streaming/mqtt/MQTTStreamSuite.scala -> /home/ubuntu/.m2/repository/org/apache/activemq/activemq-core/5.7.0/activemq-core-5.7.0.jar
+   external/mqtt/src/test/scala/org/apache/spark/streaming/mqtt/MQTTStreamSuite.scala -> /home/ubuntu/.m2/repository/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar
+   external/mqtt/src/test/scala/org/apache/spark/streaming/mqtt/MQTTStreamSuite.scala -> /home/ubuntu/.m2/repository/org/eclipse/paho/org.eclipse.paho.client.mqttv3/1.0.1/org.eclipse.paho.client.mqttv3-1.0.1.jar
+   external/mqtt/src/test/scala/org/apache/spark/streaming/mqtt/MQTTStreamSuite.scala -> /home/ubuntu/.m2/repository/org/scala-lang/scala-library/2.11.2/scala-library-2.11.2.jar
+   external/mqtt/src/test/scala/org/apache/spark/streaming/mqtt/MQTTStreamSuite.scala -> /home/ubuntu/.m2/repository/org/scalatest/scalatest_2.11/2.2.1/scalatest_2.11-2.2.1.jar
+   external/mqtt/src/test/scala/org/apache/spark/streaming/mqtt/MQTTStreamSuite.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+   external/mqtt/src/test/scala/org/apache/spark/streaming/mqtt/MQTTStreamSuite.scala -> core/target/spark-core_2.11-1.3.1.jar
+   external/mqtt/src/test/scala/org/apache/spark/streaming/mqtt/MQTTStreamSuite.scala -> streaming/target/spark-streaming_2.11-1.3.1.jar
+source dependencies:
+   external/mqtt/src/test/java/org/apache/spark/streaming/LocalJavaStreamingContext.java -> external/mqtt/src/test/java/org/apache/spark/streaming/LocalJavaStreamingContext.java
+   external/mqtt/src/test/java/org/apache/spark/streaming/mqtt/JavaMQTTStreamSuite.java -> external/mqtt/src/test/java/org/apache/spark/streaming/LocalJavaStreamingContext.java
+   external/mqtt/src/test/java/org/apache/spark/streaming/mqtt/JavaMQTTStreamSuite.java -> external/mqtt/src/test/java/org/apache/spark/streaming/mqtt/JavaMQTTStreamSuite.java
+external dependencies:
+   external/mqtt/src/test/java/org/apache/spark/streaming/mqtt/JavaMQTTStreamSuite.java -> org.apache.spark.streaming.mqtt.MQTTUtils
+   external/mqtt/src/test/scala/org/apache/spark/streaming/mqtt/MQTTStreamSuite.scala -> org.apache.spark.streaming.mqtt.MQTTUtils$
+class names:
+   external/mqtt/src/test/java/org/apache/spark/streaming/LocalJavaStreamingContext.java -> org.apache.spark.streaming.LocalJavaStreamingContext
+   external/mqtt/src/test/java/org/apache/spark/streaming/mqtt/JavaMQTTStreamSuite.java -> org.apache.spark.streaming.mqtt.JavaMQTTStreamSuite
+   external/mqtt/src/test/scala/org/apache/spark/streaming/mqtt/MQTTStreamSuite.scala -> org.apache.spark.streaming.mqtt.MQTTStreamSuite
+   external/mqtt/src/test/scala/org/apache/spark/streaming/mqtt/MQTTStreamSuite.scala -> org.apache.spark.streaming.mqtt.MQTTStreamSuite$$anon$1
+   external/mqtt/src/test/scala/org/apache/spark/streaming/mqtt/MQTTStreamSuite.scala -> org.apache.spark.streaming.mqtt.MQTTStreamSuite$$anonfun$1
+   external/mqtt/src/test/scala/org/apache/spark/streaming/mqtt/MQTTStreamSuite.scala -> org.apache.spark.streaming.mqtt.MQTTStreamSuite$$anonfun$2
+   external/mqtt/src/test/scala/org/apache/spark/streaming/mqtt/MQTTStreamSuite.scala -> org.apache.spark.streaming.mqtt.MQTTStreamSuite$$anonfun$3
+   external/mqtt/src/test/scala/org/apache/spark/streaming/mqtt/MQTTStreamSuite.scala -> org.apache.spark.streaming.mqtt.MQTTStreamSuite$$anonfun$3$$anonfun$apply$mcV$sp$1
+   external/mqtt/src/test/scala/org/apache/spark/streaming/mqtt/MQTTStreamSuite.scala -> org.apache.spark.streaming.mqtt.MQTTStreamSuite$$anonfun$3$$anonfun$apply$mcV$sp$2
+   external/mqtt/src/test/scala/org/apache/spark/streaming/mqtt/MQTTStreamSuite.scala -> org.apache.spark.streaming.mqtt.MQTTStreamSuite$$anonfun$findFreePort$1
+   external/mqtt/src/test/scala/org/apache/spark/streaming/mqtt/MQTTStreamSuite.scala -> org.apache.spark.streaming.mqtt.MQTTStreamSuite$$anonfun$publishData$1
